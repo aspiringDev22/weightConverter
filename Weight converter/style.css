@@ -1,0 +1,49 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    height: 100vh;
+    background: rgb(72, 68, 68);
+}
+ h1{
+    color: aliceblue;
+    margin: 20px;
+ }
+
+.form-group{
+    width: 30%;
+}
+.form-group input{
+    margin-top: 60px;
+    padding: 20px 20px;
+    margin-left: 40px;
+}
+.card{
+    width: 30%;
+    text-transform: lowercase;
+    font-family: cursive;
+}
+.card-block{
+    display: flex;
+    flex-direction: row;
+}
+.card-block div{
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.sub-container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 400px;
+}
+
+.bg1{
+    background: rgb(243, 192, 192);
+}
+.bg2{
+    background: rgb(227, 194, 148);
+}
+.bg3{
+    background: rgb(152, 238, 163);
+}
+
